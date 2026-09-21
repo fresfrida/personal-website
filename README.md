@@ -4,9 +4,7 @@ A small home for Frida on the web.
 
 [Visit fresfrida.vercel.app](https://fresfrida.vercel.app)
 
-[![Frida's personal website on desktop](screenshots/site-desktop.png)](https://fresfrida.vercel.app)
 
-[![Frida's personal website on mobile](screenshots/site-mobile.png)](https://fresfrida.vercel.app)
 
 ## The story
 
