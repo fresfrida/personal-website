@@ -1,13 +1,5 @@
 # Personal website
 
-A small home for Frida on the web.
-
-[Visit fresfrida.vercel.app](https://fresfrida.vercel.app)
-
-
-
-## The story
-
 I made this page while learning Claude and exploring what AI can build. I wanted one quiet place that felt like me, with a simple way to find my work on GitHub.
 
 ```bash
